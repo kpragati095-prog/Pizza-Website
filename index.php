@@ -126,49 +126,49 @@ if(isset($_POST['submit'])){
         <div class="menu-items">
             <div class="menu-item">
                 <img src="pizza.jpg" alt="">
-                <h3>burger</h3>
-                <p>Lorem ipsum dolor sit amet.</p>
-                <div class="price">500</div>
+                <h3>Paneer Pizza</h3>
+                <p>have delicious paneer pizza</p>
+                <div class="price">200</div>
 
             </div>
             <div class="menu-item">
                 <img src="pizza.jpg" alt="">
-                <h3>burger</h3>
-                <p>Lorem ipsum dolor sit amet.</p>
-                <div class="price">500</div>
+                <h3>cheese burger</h3>
+                <p>have delicious cheese burger.</p>
+                <div class="price">160</div>
 
             </div>
             <div class="menu-item">
                 <img src="pizza.jpg" alt=" " ;>
-                <h3>burger</h3>
-                <p>Lorem ipsum dolor sit amet.</p>
-                <div class="price">500</div>
+                <h3>chicken burger</h3>
+                <p>have delicious chicken burger.</p>
+                <div class="price">250</div>
 
             </div>
 
             <div class="menu-item">
                 <img src="pizza.jpg" alt=" " ;>
-                <h3>burger</h3>
-                <p>Lorem ipsum dolor sit amet.</p>
-                <div class="price">500</div>
-
-            </div>
-
-
-            <div class="menu-item">
-                <img src="pizza.jpg" alt=" " ;>
-                <h3>burger</h3>
-                <p>Lorem ipsum dolor sit amet.</p>
-                <div class="price">500</div>
+                <h3>paneerburger</h3>
+                <p>have delicious paneer burger</p>
+                <div class="price">200</div>
 
             </div>
 
 
             <div class="menu-item">
                 <img src="pizza.jpg" alt=" " ;>
-                <h3>burger</h3>
-                <p>Lorem ipsum dolor sit amet.</p>
-                <div class="price">500</div>
+                <h3>pizza</h3>
+                <p>have tasty cheeese pizza</p>
+                <div class="price">200</div>
+
+            </div>
+
+
+            <div class="menu-item">
+                <img src="pizza.jpg" alt=" " ;>
+                <h3>chicken pizza</h3>
+                <p>have delicious chicken pizza</p>
+                <div class="price">300</div>
 
             </div>
         </div>
@@ -183,7 +183,7 @@ if(isset($_POST['submit'])){
             <input type="text"name="phone" placeholder="Phone number">
             <input type="date" name="date">
             <input type="time" name="time">
-            <textarea placeholder="Enter your queries" name="message"></textarea>
+            <textarea placeholder="place your order" name="message"></textarea>
             <button type="submit" name="submit">Book now</button>
         </form>
     </div>
