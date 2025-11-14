@@ -133,14 +133,14 @@ if(isset($_POST['submit'])){
             </div>
             <div class="menu-item">
                 <img src="pizza.jpg" alt="">
-                <h3>cheese burger</h3>
+                <h3>cheese corn pizza</h3>
                 <p>have delicious cheese burger.</p>
                 <div class="price">160</div>
 
             </div>
             <div class="menu-item">
                 <img src="pizza.jpg" alt=" " ;>
-                <h3>chicken burger</h3>
+                <h3>Tandoori pizza</h3>
                 <p>have delicious chicken burger.</p>
                 <div class="price">250</div>
 
@@ -148,7 +148,7 @@ if(isset($_POST['submit'])){
 
             <div class="menu-item">
                 <img src="pizza.jpg" alt=" " ;>
-                <h3>paneerburger</h3>
+                <h3>paneertikka pizza</h3>
                 <p>have delicious paneer burger</p>
                 <div class="price">200</div>
 
